@@ -5,7 +5,7 @@ A command-line chatbot in Python that sends a single prompt to an AI model throu
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cli-chatbot.git
+git clone https://github.com/jram-neo/cli-chatbot.git
 cd cli-chatbot
 pip install -r requirements.txt
 ```
